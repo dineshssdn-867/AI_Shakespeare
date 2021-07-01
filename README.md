@@ -1,0 +1,2 @@
+# AI_Shakespeare
+The research shows that one of the most effective artificial neural network types for Natural Language Processing tasks is Recurrent Neural Networks (RNNs). RNNs are widely used in NLP tasks such as machine translation, text generation, image captioning. In NLP tasks, we usually use NLP tools and methods to process the text data into vectors and then feed them into a selected artificial neural network such as RNN, CNN, or even a feedforward neural network to complete a task.
